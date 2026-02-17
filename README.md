@@ -12,7 +12,7 @@ I develop custom GPU-accelerated solvers to study radiation transport and fluid 
 
 ---
 
-### Research
+## Research
 
 My work focuses on solving the dynamic of photons, fluids, or spacetime itself on curved spacetime backgrounds.
 
@@ -20,6 +20,17 @@ My work focuses on solving the dynamic of photons, fluids, or spacetime itself o
 * **Relativistic Hydrodynamics:** Hydrodynamic fluids and accretion disks around compact objects and self-gravitating objects.
 * **Dynamic Object Simulation:** Collapses and self-gravitating objects.
 * **Wave Mechanics:** Evolution of scalar and tensor perturbations around compact objects.
+
+## Current Projects
+
+| Project | Focus | Stack |
+| :--- | :--- | :--- |
+| **`exac`** | *Fluid Dynamics* | A finite-volume solver for relativistic fluids on spherically symmetric static metrics. `python`, `OpenCL` |
+| **`ecos`** | *Ray Tracing* | Ray-tracer tool for photon trajectories. `C`, `python`, `OpenCL` |
+
+### Code Availability
+
+> **Note:** As my core research code is part of my ongoing doctoral thesis, the full implementations are currently **private**. The public repositories are **"lite" versions**. The full source will be open-sourced upon publication of my thesis.
 
 ---
 
@@ -41,28 +52,12 @@ I utilize a hybrid workflow: **Mathematica (xAct)** for deriving equations and *
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat&logo=python&logoColor=white)
 
----
-
-### Current Projects
-
-| Project | Focus | Stack |
-| :--- | :--- | :--- |
-| **`exac`** | *Fluid Dynamics* | A finite-volume solver for relativistic fluids on spherically symmetric static metrics. `python`, `OpenCL` |
-| **`ecos`** | *Ray Tracing* | Ray-tracer tool for photon trajectories. `C`, `python`, `OpenCL` |
-
-### Code Availability
-
-> **Note:** As my core research code is part of my ongoing doctoral thesis, the full implementations are currently **private**. The public repositories are **"lite" versions**. The full source will be open-sourced upon publication of my thesis.
-
----
-
 ### Other Interests
 
 * **Financial Analysis:** In my spare time, I apply my background in numerical modelling to quantitative finance and market analysis.  
 
----
 
-### 📫 Connect
+## Connect
 
 * [**Inspire-HEP**](https://inspirehep.net/authors/3088465)
 * **Email:** ddiazgue[at]ucm.es
