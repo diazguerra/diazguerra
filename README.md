@@ -6,6 +6,10 @@ I am a PhD Candidate working on **Compact Objects**, from Black Holes to any exo
 
 I develop custom GPU-accelerated solvers to study radiation transport and fluid dynamics, as well as deriving analytical field equations using computer algebra systems.
 
+<p align="center">
+  <img src="./sch-accretion.png" width="600" title="Schwarzschild Accretion Disk">
+</p>
+
 ---
 
 ### Research
