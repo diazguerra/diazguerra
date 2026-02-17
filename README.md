@@ -1,6 +1,6 @@
 # David Díaz-Guerra
 
-### PhD Researcher | Theoretical Physicist | HPC Developer
+### PhD Candidate | Theoretical Physicist | HPC Developer
 
 I am a PhD Candidate working on **Compact Objects**, from Black Holes to any exotic solution. My research focuses on theoretical models of compact objects and the numerical implementation of **hydrodynamic** and **dynamic system** simulations.
 
