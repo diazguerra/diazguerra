@@ -2,23 +2,12 @@
 
 ### PhD Candidate | Theoretical Physicist | HPC Developer
 
-I am a PhD Candidate working on **Compact Objects**, from Black Holes to any exotic solution. My research focuses on theoretical models of compact objects and the numerical implementation of **hydrodynamic** and **dynamic system** simulations.
-
-I develop custom GPU-accelerated solvers to study radiation transport and fluid dynamics, as well as deriving analytical field equations using computer algebra systems.
-
-<p align="center">
-  <img src="./sch-accretion.png" width="600" title="Schwarzschild Accretion Disk">
-</p>
-
----
+I am a PhD Candidate working on **Compact Objects**, from Black Holes to any exotic solution. My research focuses on theoretical models of compact objects and the numerical implementation of **hydrodynamic** and **dynamic system** simulations. I develop custom GPU-accelerated solvers to study radiation transport and fluid dynamics, as well as deriving analytical field equations using computer algebra systems.
 
 ## Research
 
-My work focuses on solving the dynamic of photons, fluids, or spacetime itself on curved spacetime backgrounds.
-
-* **Ray Tracing & Radiative Transfer:** GPU-accelerated calculation of null geodesics to obtain shadows and study the photon sphere.
-* **Relativistic Hydrodynamics:** Hydrodynamic fluids and accretion disks around compact objects and self-gravitating objects.
-* **Dynamic Object Simulation:** Collapses and self-gravitating objects.
+* **Ray Tracing & Radiative Transfer:** GPU-accelerated calculation of null geodesics to obtain shadows and study photon spheres and other related quantities.
+* **Relativistic Hydrodynamics:** GRHD for self-gravitating objects and accretion disks around compact objects.
 * **Wave Mechanics:** Evolution of scalar and tensor perturbations around compact objects.
 
 ## Current Projects
@@ -28,7 +17,10 @@ My work focuses on solving the dynamic of photons, fluids, or spacetime itself o
 | **`exac`** | *Fluid Dynamics* | A finite-volume solver for relativistic fluids on spherically symmetric static metrics. `python`, `OpenCL` |
 | **`ecos`** | *Ray Tracing* | Ray-tracer tool for photon trajectories. `C`, `python`, `OpenCL` |
 
-### Code Availability
+
+<p align="center">
+  <img src="./sch-accretion.png" width="800" title="Schwarzschild Accretion Disk">
+</p>
 
 > **Note:** As my core research code is part of my ongoing doctoral thesis, the full implementations are currently **private**. The public repositories are **"lite" versions**. The full source will be open-sourced upon publication of my thesis.
 
@@ -36,7 +28,7 @@ My work focuses on solving the dynamic of photons, fluids, or spacetime itself o
 
 ### Tech Stack
 
-I utilize a hybrid workflow: **Mathematica (xAct)** for deriving equations and **C/OpenCL/CUDA** for efficient numerical implementations.
+I utilize a hybrid workflow: **Mathematica (xAct)** for deriving equations and **C/OpenCL/CUDA** for numerical implementations.
 
 **High-Performance Computing (HPC):**
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -54,7 +46,7 @@ I utilize a hybrid workflow: **Mathematica (xAct)** for deriving equations and *
 
 ### Other Interests
 
-* **Financial Analysis:** In my spare time, I apply my background in numerical modelling to quantitative finance and market analysis.  
+* **Financial Analysis:** In my spare time, I apply my background in numerical modelling to quantitative finance and market analysis.
 
 
 ## Connect
