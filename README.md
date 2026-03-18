@@ -14,8 +14,8 @@ I am a PhD Candidate working on **Compact Objects**, from Black Holes to any exo
 
 | Project | Focus | Stack |
 | :--- | :--- | :--- |
+| [**`ecos`**](https://github.com/diazguerra/ecos-lite) | *Ray Tracing* | Ray-tracer tool for photon trajectories. `C`, `python`, `OpenCL` |
 | **`exac`** | *Fluid Dynamics* | A finite-volume solver for relativistic fluids on spherically symmetric static metrics. `python`, `OpenCL` |
-| **`ecos`** | *Ray Tracing* | Ray-tracer tool for photon trajectories. `C`, `python`, `OpenCL` |
 
 
 <p align="center">
